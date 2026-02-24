@@ -60,6 +60,7 @@ ignore_missing_imports = true
 
 [tool.poetry.scripts]
 py-lab = "py_lab.cli:main"
+py-basic = "py_lab.basic:main"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "*"
