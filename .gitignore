@@ -35,3 +35,6 @@ htmlcov/
 
 # Project outputs
 out/
+
+# models
+models/*.pkl
